@@ -1,2 +1,2 @@
 # Balance-3D
-PC stable version
+My second game (not project).
