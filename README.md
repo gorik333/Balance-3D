@@ -10,6 +10,5 @@ In it I used the following technologies:
   7. Volume sliders, preview screen
  
  Gameplay video:
- 
  https://youtu.be/z2dZhRHzTbc
 
